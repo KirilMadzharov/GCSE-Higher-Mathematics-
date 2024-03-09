@@ -11,15 +11,29 @@ And with many employers now requiring a minimum qualification in GCSE Maths, thi
 **COURSE CONTENT**
 
 Structure and calculations
+
 Fractions and decimals
+
 Measures and accuracy
+
 Notation, expressions and formulae
+
 Graphs
+
 Solving equations and inequalities
+
 Sequences
+
 Properties and construction
+
 Transformations
+
 Triangles
+
 Ratio, proportion and change
+
 Probability
+
 Statistics
+
+
